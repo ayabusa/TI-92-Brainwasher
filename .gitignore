@@ -7,4 +7,5 @@
 *.ROM
 *.elf
 *.hex
-*/venv
+*venv/*
+*build/*
