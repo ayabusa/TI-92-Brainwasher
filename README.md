@@ -25,7 +25,7 @@ First you'll need to gather the following components, AliExpress is your friend:
 - `2x 10µF Capacitor in 1206 SMD`
 - `3x 10k Resistor in 1206 SMD`
 
-On top of that you'll need to order the two custom PCB using an online service like [PCBWay](https://www.pcbway.com/)
+On top of that you'll need to order the two custom PCB (more info in `pcb/README.txt`) using an online service like [PCBWay](https://www.pcbway.com/)
 
 Once you have everything, solder everything according to the silkscreen markings on the PCB and using reference images. Be really carefull at the orientation of the components.
 - The Bluepill orientation is clearly indicated by the silkscreen.
@@ -49,6 +49,7 @@ Then you'll be able to flash a ROM onto your custom module using the PC software
 Once everything else is done you can put your module in the calc by opening it's back.
 
 BE CAREFUL !!! REMOVE ALL THE BATTERIES FIRST !!!
+
 ![TI-92 back](ref/back.jpg)
 
 ## License

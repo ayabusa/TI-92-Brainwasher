@@ -1,7 +1,7 @@
 # Brainwasher PC software
 This Python script is designed to communicate easly with the brainwasher board ;D
 
-It provides a small GUI made with PySimpleGUI that let you
+It provides a small GUI made with PySimpleGUI that let you:
 - Erase the ROM
 - Dump the ROM
 - Write to the ROM
