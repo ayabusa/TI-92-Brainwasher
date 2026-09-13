@@ -52,5 +52,8 @@ BE CAREFUL !!! REMOVE ALL THE BATTERIES FIRST !!!
 
 ![TI-92 back](ref/back.jpg)
 
+### Box
+There is also a purely cosmetic packaging I made, inspired by the original TI-92 Box. You can print it using the pdf in `box/box.pdf`
+
 ## License
 There are different part in this project, and different Licenses, refer to the LICENSE.txt in each folder. If unsure contact me via Email at `contact [at] ayabusa (dot) dev`
