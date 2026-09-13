@@ -1,0 +1,10 @@
+*.o
+*.out
+*.bak
+*.BAK
+*.bin
+*.rom
+*.ROM
+*.elf
+*.hex
+*/venv
